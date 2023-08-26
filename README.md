@@ -9,9 +9,9 @@ Lodash is a widely used utility library for JavaScript that provides a plethora 
 
 ## How It Works
 
-Each method we choose to decode will have its own dedicated folder with the JS file.
+Each method we choose to decode will have its own JS file.
 
-We'll break down the logic, step by step, and create our JavaScript implementation of the method. By doing this, we'll gain insights into the underlying concepts and algorithms behind these functions.
+We'll break down the logic, step by step, and create our basic JavaScript implementation of the method. By doing this, we'll gain insights into the underlying concepts and algorithms behind these functions.
 
 
 ## Getting Started
