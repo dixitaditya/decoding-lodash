@@ -5,6 +5,5 @@ function _uniq(array) {
     
     // Create a Set from the array to remove duplicates
     return Array.from(new Set(array));
-    
   }
   
